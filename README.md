@@ -65,9 +65,9 @@ Incomplete responses were excluded to ensure data accuracy.
   
    Lowest rated questions point to gaps in:
    
-    - Employee recognition
-    - Feeling valued for good work
-    - Workplace connection
+  - Employee recognition
+  - Feeling valued for good work
+  - Workplace connection
 
 ## Recommendations
 **Strengthen recognition efforts:**
