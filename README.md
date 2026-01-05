@@ -44,24 +44,24 @@ Incomplete responses were excluded to ensure data accuracy.
 ---
 
 ## Key Insights
-**Overall engagement is strong:**
+**1. Overall engagement is strong:**
 - The overall agreement rate is 78%, indicating generally positive employee sentiment.
 
-**Engagement differs by department:**
+**2. Engagement differs by department:**
 - Most departments meet or exceed the company average.
 - A few departments fall significantly below average, with the lowest at 49% agreement.
 
-**Staff roles show lower agreement:**
+**3. Staff roles show lower agreement:**
   - Supervisors and managers report higher agreement levels.
   - Staff members consistently report lower engagement, highlighting a potential experience gap.
 
-**Employees understand expectations:**
+**4. Employees understand expectations:**
   - Highest rated questions show strong agreement around:
   - Clear job expectations
   - Support from supervisors
   - Alignment with the organization’s mission
 
-  **Recognition is a key challenge:**
+**5. Recognition is a key challenge:**
   
    Lowest rated questions point to gaps in:
    
@@ -70,19 +70,19 @@ Incomplete responses were excluded to ensure data accuracy.
   - Workplace connection
 
 ## Recommendations
-**Strengthen recognition efforts:**
+**1. Strengthen recognition efforts:**
 
 - Regular appreciation and acknowledgment can improve morale and engagement.
   
-**Focus on low-performing departments:**
+**2. Focus on low-performing departments:**
   
 - Engage directly with departments below the average to nderstand local challenges and expectation
   
-**Support staff level employees:**
+**3. Support staff level employees:**
 
 - Clear growth paths and frequent feedback can help close engagement gaps
   
-**Encourage team connection:**
+**4. Encourage team connection:**
 
 - Stronger collaboration and team bonding can improve how employees feel about their workplace relationships.
 
